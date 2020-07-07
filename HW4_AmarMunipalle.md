@@ -49,7 +49,7 @@ You needed $6,085.00 but portfolio yielded $6,964.35**
 #### Harold cannot retire in one year with a 60/40 mix and $20k/$30k initial investment
 #### As his advisor, our sophisticated models prove that a chnage in asset mix and investment provides Harold a 5 year retirement horizon
 #### We have performed extensive research and our diversified low cost 60/40 portfolio avoids concentration risk of an SPY/AGG portfolio
-#### We understand the simpistic modelling of using 1 year St Dev and Retruns which have a tendency to overstate returns especially after a banner year like 2019 in ters of performance
+#### We understand the simpistic modelling of using 1 year St Dev and Retruns which have a tendency to overstate returns especially after a banner year like 2019 in ters of performance. Additionally correlation between the two securities has not been modelled
 #### A sneak preview of Harold's diversified (60/40) portfolio is enclosed. Extracted from ETF.com
 ![](ferri-60.40.png)
 
