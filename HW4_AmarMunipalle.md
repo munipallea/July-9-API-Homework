@@ -1,4 +1,4 @@
-![](Financial Advisor.jpg)
+![](FinancialAdvisor.jpg)
 
 # Financial Planner Report: Mr. Harold X. Prepared by Amar Munipalle
 
